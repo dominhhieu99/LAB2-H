@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HieuDM</string>
+    <string name="name">Đỗ Minh Hiếu - PH05721 - LAB01 - MOB403</string>
+    <string name="btn_bai1">Bài 1</string>
+    <string name="btn_bai2">Bài 2</string>
+    <string name="btn_bai3">Bài 3</string>
+    <string name="btn_bai4">Bài 4</string>
+</resources>
